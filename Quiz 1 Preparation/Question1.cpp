@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// input heights from user
 void input(int *arr)
 {
     cout << "Enter heights" << endl;
